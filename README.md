@@ -15,3 +15,5 @@ Tahapan yang ada pada latihan ini antara lain:
 5. Lakukan pengujian model dengan menggunakan data uji. 
 6. Lakukan prediksi dengan model yang telah dilatih.
 7. Visualisasi model Decision Tree yang telah dilatih.
+
+Berikut merupakan hasil visualisasi dari model decision tree yang telah kita gunakan:
