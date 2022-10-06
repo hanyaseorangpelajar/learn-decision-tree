@@ -1,4 +1,3 @@
-# sklearn-gender
 # Decision Tree
 
 ## Tujuan
