@@ -17,3 +17,4 @@ Tahapan yang ada pada latihan ini antara lain:
 7. Visualisasi model Decision Tree yang telah dilatih.
 
 Berikut merupakan hasil visualisasi dari model decision tree yang telah kita gunakan:
+<img src=https://raw.githubusercontent.com/hanyaseorangpelajar/assets/main/alpha.png>
